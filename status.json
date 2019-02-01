@@ -1,7 +1,7 @@
 {
-  "code": "en",
-  "language": "English",
-  "maintainers": ["schacon"],
+  "code": "hy",
+  "language": "Armenian",
+  "maintainers": ["lanycrost"],
   "files": {
     "01-introduction": {
       "1-introduction.asc": 0,
